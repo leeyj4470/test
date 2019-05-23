@@ -8,6 +8,7 @@
 		<param-name>contextConfigLocation</param-name>
 		<param-value>classpath:context/root-context.xml</param-value>
 	</context-param>
+		<!-- Creates the Spring Container shared by all Servlets and Filters -->
 	
 	<!-- Creates the Spring Container shared by all Servlets and Filters -->
 	<listener>
